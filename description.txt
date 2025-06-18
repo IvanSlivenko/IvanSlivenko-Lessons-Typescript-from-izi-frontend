@@ -1,0 +1,24 @@
+ -------------------------------------------------------------------------- Lesson 1
+https://youtu.be/GtiA_8S7yLs?list=PLVSKBfwSePNX6I-IWb8KFPREzYwSf1BBi
+
+
+
+npm install -g typescript
+
+перевірити версію 
+npx tsc -v
+
+
+tsc add.ts ------ запуск файла add.ts
+
+tsc --strict add.ts ------------- запуск файла зі strict
+
+---------------------------------------- створюємо ts.config
+tsc --init --strict
+
+
+
+
+---------------------------------------------------------------------------
+
+00 : 14 : 58
